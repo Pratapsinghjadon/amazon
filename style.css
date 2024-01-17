@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+.navbar {
+    height: 60px;
+    background-color: #007185;
+    display: flex;
+}
+
+.nav-logo {
+    height: 50px;
+    width :113px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(amazon_logo.png);    
+}
